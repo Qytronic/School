@@ -1,25 +1,18 @@
-# 💻 School Informatics – Solutions
+# School Informatics – Task Solutions
 
-Welcome! This repository serves as an archive for all my solutions and coursework completed during my **School Informatics** class.
+This repository contains my personal solutions for my school's informatics class. 
 
----
-
-## 📌 About
-
-* **Language:** Python (`.py` scripts & `.ipynb` Jupyter Notebooks)
-* **Environment:** Visual Studio Code (VS Code)
-* **Organization:** Solutions are organized by topic across distinct git branches.
+All code is written in Python (either as standard `.py` files or `.ipynb` Jupyter Notebooks) and created using Visual Studio Code.
 
 ---
 
-## 📂 Repository & Branch Structure
+## 📌 Structure & Branches
 
-To keep the code clean and easy to navigate, solutions are split into categorized branches:
+To keep everything clean and organized, solutions are sorted into separate git branches by topic:
 
-* **`main`** – Overview, documentation, and repository updates.
-* **`<topic-branch>`** – Switch to specific branches to view exercises categorized by topic (e.g., control structures, algorithms, data analysis).
+* **`main`**: General information and repository setup.
+* **Topic Branches**: Individual branches dedicated to specific categories (e.g., basics, loops, data analysis).
 
-### How to inspect a specific topic:
+To check out a specific topic, switch to the respective branch:
 ```bash
-# Switch to a specific category branch
 git checkout <branch-name>
