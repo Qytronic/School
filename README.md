@@ -1,18 +1,33 @@
 # School Informatics – Task Solutions
 
-This repository contains my personal solutions for my school's informatics class. 
-
-All code is written in Python (either as standard `.py` files or `.ipynb` Jupyter Notebooks) and created using Visual Studio Code.
+Welcome to my repository for school informatics. Here I upload my solutions to various programming tasks and exercises.
 
 ---
 
-## 📌 Structure & Branches
+## 📋 Table of Contents
 
-To keep everything clean and organized, solutions are sorted into separate git branches by topic:
+- [About the Project](#-about-the-project)
+- [Branches & Topics](#-branches--topics)
+- [Development Setup & VS Code Extensions](#-development-setup--vs-code-extensions)
+- [Legal & Academic Disclaimer](#-legal--academic-disclaimer)
 
-* **`main`**: General information and repository setup.
-* **Topic Branches**: Individual branches dedicated to specific categories (e.g., basics, loops, data analysis).
+---
 
-To check out a specific topic, switch to the respective branch:
+## 📌 About the Project
+
+* **Language:** Python (`.py` scripts and `.ipynb` Jupyter Notebooks)
+* **IDE:** Visual Studio Code
+* **Structure:** Each topic/task category is organized in its own Git branch to keep the `main` branch clean.
+
+---
+
+## 📂 Branches & Topics
+
+Use the links below to navigate directly to the respective topic branches:
+
+* 🏠 [**`main`**](../../tree/main) – General documentation, setup, and repository overview.
+* 🎨 [**`Farben-und-Strichdicke`**](../../tree/Farben-und-Strichdicke) – Python graphics / drawing exercises focusing on colors and line thickness.
+
+### How to switch branches in Git:
 ```bash
 git checkout <branch-name>
